@@ -1,2 +1,12 @@
-# 4d-example-Italian-ModernBERT
-Italian-ModernBERT for ONNX
+## [DeepMount00/Italian-ModernBERT-base](https://huggingface.co/DeepMount00/Italian-ModernBERT-base)
+
+```4d
+
+```
+
+
+##### Cosine similarity from example code above:
+
+|llama.cpp `Q8_0`|ONNX Runtime `Int8`|ONNX Runtime `F32`|
+|-|:-|:-|
+||``|``|
