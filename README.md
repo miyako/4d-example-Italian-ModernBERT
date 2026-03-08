@@ -23,6 +23,6 @@ $cosineSimilarity:=$it1.cosineSimilarity($it2)
 
 ##### Cosine similarity from example code above:
 
-|llama.cpp `Q8_0`|ONNX Runtime `Int8`|ONNX Runtime `F32`|
-|-:|-:|-:|
-|`0.8799664693159`|`0.6456457361483`|`0.6827415995987`|
+||llama.cpp `Q8_0`|ONNX Runtime `Int8`|
+|-|-:|-:|
+|🇮🇹|`0.8799664693159`|`0.8163768504992`|
